@@ -1,10 +1,9 @@
 import cs1.SimpleURLReader;
-
 /**
  * Reads the contents of "http://www.cs.bilkent.edu.tr/~ozturk/cs102/housman.txt"
  * and prints it and the number of lines it contains, on the console.
  * @author Melisa Tanrikulu
- * @version 20.06.2021
+ * @version 25.06.2021
  */
 public class Part_A {
 
